@@ -64,7 +64,7 @@ public class JpaTpApplication implements CommandLineRunner {
 			System.out.println(patient.isMalade());
 		}
 		//supprimer un patient by ID
-		patientRepository.deleteById(2L);
+		// patientRepository.deleteById(2L);
 
 		//Mettre à Jour un Patient
 		Patient patient1 = patientRepository.findById(3L).orElse(null);

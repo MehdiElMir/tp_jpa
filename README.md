@@ -68,5 +68,16 @@ Data de l'entité Patient.</p>
 fonctionnalité de gestion des patients. </p>
 <p>Test des opérations : </p>
 <ul>
-<li></li>
+<li>Ajouter des patients</li>
+<img src="captures/ajouterDesPatients.png" alt="ajout des patients">
+<li>Consulter tous les patients</li>
+<img src="captures/ConsulterToutLesPatients.png" alt="consulter les patients">
+<li>Consulter un patient</li>
+<img src="captures/consulter_un_patient.png" alt="consulter un patient" >
+<li>Chercher des patients</li>
+<img src="captures/chercherDesPatients.png" alt="chercher des patients">
+<li>Mettre à jour un patient</li>
+<img src="captures/mettre_a_jour_patient.png" alt="mettre à jour un patient">
+<li>supprimer un patient</li>
+<img src="captures/supprimerUnPatient.png" alt="supprimer un patient">
 </ul>
